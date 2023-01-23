@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/toha62/ajs-platforms/issues"
   },
-  "homepage": "https://github.com/toha62/ajs-platforms#readme"
+  "homepage": "https://github.com/toha62/ajs-platforms#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-loader": "^9.1.2",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
 }
