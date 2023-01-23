@@ -1,0 +1,19 @@
+{
+  "name": "@toha62/ajs-platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/idex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toha62/ajs-platforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toha62/ajs-platforms/issues"
+  },
+  "homepage": "https://github.com/toha62/ajs-platforms#readme"
+}
